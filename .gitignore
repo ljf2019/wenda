@@ -17,6 +17,8 @@ HELP.md
 *.iml
 *.ipr
 
+com.alibaba:fastjson
+
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
